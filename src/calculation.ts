@@ -8,8 +8,4 @@ export default class Calculation {
   public calc(): number {
     return this.num + 1
   }
-
-
-
-  
 }
